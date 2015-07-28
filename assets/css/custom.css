@@ -1,0 +1,44 @@
+/* THIS IS CUSTOM.CSS FOR THE EVENT THEME */
+
+
+/* testimonial picture */
+.testimonials {
+    background-image: url(../img/testimonial.jpg);
+}
+
+
+/* header area picture and height  */
+#h {
+    background: url(../img/header2.jpg) no-repeat center top;
+    min-height: 900px;
+}
+
+
+/* color for icons and some text */
+i.fa.fa-cloud.fa-3x,
+i.fa.fa-users.fa-3x,
+i.fa.fa-database.fa-3x,
+tgr,
+.fa-twitter {
+    color: #31318E;
+}
+
+
+/* background for buttons */
+.price-tag-green,
+.btn-primary {
+    background: #31318E;
+}
+
+
+/* color for social media icons */
+.fa-twitter,
+.fa-facebook {
+    color: white;
+}
+
+
+/* creds link color */
+.copyright a {
+    color: #B5C2FF;
+}
